@@ -6,15 +6,15 @@ public class Prog8{
 
     public static void main(String[] args){
 
-        System.out.print("Çós=a+aa+aaa+aaaa+...µÄÖµ£¬ÇëÊäÈëaµÄÖµ£º");
+        System.out.print("æ±‚s=a+aa+aaa+aaaa+...çš„å€¼ï¼Œè¯·è¾“å…¥açš„å€¼ï¼š");
 
-        Scanner scan = new Scanner(System.in).useDelimiter("\\s*");//ÒÔ¿Õ¸ñ×÷Îª·Ö¸ô·û
+        Scanner scan = new Scanner(System.in).useDelimiter("\\s*");//ä»¥ç©ºæ ¼ä½œä¸ºåˆ†éš”ç¬¦
 
         int a = scan.nextInt();
 
         int n = scan.nextInt();
 
-        scan.close();//¹Ø±ÕÉ¨ÃèÆ÷
+        scan.close();//å…³é—­æ‰«æå™¨
 
         System.out.println(expressed(2,5)+add(2,5));
 
