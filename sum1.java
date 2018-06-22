@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Prog8{
 
    
-    //求和表达式
+    //脟贸潞脥卤铆麓茂脢陆
 
     private static String expressed(int a,int n){
 
