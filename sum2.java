@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Prog8{
 
 
-    //ÇóºÍ
+    //Ã‡Ã³ÂºÃ
 
     private static long add(int a,int n){
 
